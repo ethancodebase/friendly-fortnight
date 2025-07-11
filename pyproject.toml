@@ -2,7 +2,7 @@
 name = "telegram-ai-bot"
 version = "0.1.0"
 description = ""
-authors = ["Leandro Ardissone <lardissone@gmail.com>"]
+authors = ["ethancodebase"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
